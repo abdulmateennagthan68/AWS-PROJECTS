@@ -1,3 +1,9 @@
+
+link for Enable access logs for your Application Load Balancer:
+https://docs.aws.amazon.com/elasticloadbalancing/latest/application/enable-access-logging.html
+link for Creating the table for ALB logs:
+https://docs.aws.amazon.com/athena/latest/ug/application-load-balancer-logs.html
+
 Enable access logs for your Application Load Balancer
 
 {
